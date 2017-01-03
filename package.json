@@ -1,6 +1,6 @@
 {
   "name": "node-scale",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Load Balancer, Service Registry and Server Helth Monitor",
   "main": "index.js",
   "scripts": {

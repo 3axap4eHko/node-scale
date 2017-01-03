@@ -1,0 +1,27 @@
+{
+  "name": "node-scale",
+  "version": "0.0.1",
+  "description": "Load Balancer, Service Registry and Server Helth Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3axap4eHko/node-scale.git"
+  },
+  "keywords": [
+    "load",
+    "balancer",
+    "service",
+    "registry",
+    "health",
+    "monitor"
+  ],
+  "author": "Ivan Zakharchenko <3axap4eHko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3axap4eHko/node-scale/issues"
+  },
+  "homepage": "https://github.com/3axap4eHko/node-scale#readme"
+}
